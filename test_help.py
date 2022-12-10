@@ -1,4 +1,4 @@
-import test_is_connection_entry from help
+from help import test_is_connection_entry
 
 
 def test():
