@@ -1,0 +1,1463 @@
+1668731206: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668733007: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668734808: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668736609: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668738410: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668740211: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668742012: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668743751: New connection from 103.56.61.147:36942 on port 1883.
+1668743751: New client connected from 103.56.61.147:36942 as A𪛔 (p2, c1, k10, u'A𪛔').
+1668743751: New connection from 103.56.61.147:37084 on port 1883.
+1668743751: New client connected from 103.56.61.147:37084 as nmapEUGNOYNZZLFFUZAY (p2, c0, k30).
+1668743760: Client nmapEUGNOYNZZLFFUZAY disconnected.
+1668743760: Client A𪛔 closed its connection.
+1668743768: New connection from 103.56.61.147:46614 on port 1883.
+1668743768: Client <unknown> disconnected due to protocol error.
+1668743769: New connection from 103.56.61.147:47476 on port 1883.
+1668743769: Client <unknown> disconnected due to protocol error.
+1668743813: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668745614: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668747415: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668749216: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668751017: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668752818: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668754619: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668755969: New connection from 2001:470:1:c84::11:4014 on port 1883.
+1668755969: New client connected from 2001:470:1:c84::11:4014 as MqttClient (p2, c1, k60).
+1668755970: Client MqttClient closed its connection.
+1668756420: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668758221: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668760022: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668761823: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668763624: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668764621: New connection from 74.82.47.4:32426 on port 1883.
+1668764621: New client connected from 74.82.47.4:32426 as MqttClient (p2, c1, k60).
+1668764621: Client MqttClient closed its connection.
+1668765425: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668767226: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668769027: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668770828: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668772629: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668774430: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668775800: New connection from 162.142.125.219:50774 on port 1883.
+1668775800: New client connected from 162.142.125.219:50774 as CENSYS (p2, c0, k10).
+1668775815: Client CENSYS closed its connection.
+1668776231: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668778032: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668779833: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668781634: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668783435: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668785236: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668787037: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668788838: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668790639: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668792440: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668794241: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668796042: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668797843: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668799644: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668801445: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668803246: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668805047: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668806848: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668808649: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668810450: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668812251: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668814052: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668815853: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668817654: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668819455: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668821256: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668823057: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668824858: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668826659: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668827951: New connection from 167.94.138.62:39608 on port 1883.
+1668827951: New client connected from 167.94.138.62:39608 as CENSYS (p2, c0, k10).
+1668827966: Client CENSYS closed its connection.
+1668828460: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668830261: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668830983: New connection from 2001:470:1:c84::31:34734 on port 1883.
+1668830983: New client connected from 2001:470:1:c84::31:34734 as MqttClient (p2, c1, k60).
+1668830984: Client MqttClient closed its connection.
+1668832062: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668833863: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668835664: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668837465: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668839266: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668841067: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668842868: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668842893: New connection from 118.123.105.85:39626 on port 1883.
+1668842893: New client connected from 118.123.105.85:39626 as nmapAIGOKJBMYHNBEKOJ (p2, c0, k30).
+1668842904: Client nmapAIGOKJBMYHNBEKOJ disconnected.
+1668842905: New connection from 118.123.105.85:56778 on port 1883.
+1668842905: Client <unknown> disconnected due to protocol error.
+1668842906: New connection from 118.123.105.85:56788 on port 1883.
+1668842906: Client <unknown> disconnected due to protocol error.
+1668844669: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668846470: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668848271: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668850072: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668851873: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668853674: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668855475: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668857276: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668859077: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668860878: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668861401: New connection from 74.82.47.5:54268 on port 1883.
+1668861401: New client connected from 74.82.47.5:54268 as MqttClient (p2, c1, k60).
+1668861401: Client MqttClient closed its connection.
+1668862679: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668864480: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668866281: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668868082: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668869883: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668871684: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668873485: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668873636: New connection from 162.142.125.219:39196 on port 1883.
+1668873636: New client connected from 162.142.125.219:39196 as CENSYS (p2, c0, k10).
+1668873651: Client CENSYS closed its connection.
+1668875286: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668877087: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668878888: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668880689: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668882490: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668884291: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668886092: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668887893: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668889694: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668891495: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668893296: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668895097: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668896898: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668898699: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668900500: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668902301: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668904102: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668905903: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668907704: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668909505: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668911306: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668913107: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668913265: New connection from 167.248.133.45:52888 on port 1883.
+1668913265: New client connected from 167.248.133.45:52888 as CENSYS (p2, c0, k10).
+1668913280: Client CENSYS closed its connection.
+1668914908: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668916709: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668917165: New connection from 2001:470:1:332::7:22400 on port 1883.
+1668917165: New client connected from 2001:470:1:332::7:22400 as MqttClient (p2, c1, k60).
+1668917165: Client MqttClient closed its connection.
+1668918510: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668920311: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668922112: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668923913: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668925714: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668927515: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668929316: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668931117: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668932918: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668933925: New connection from 184.105.247.195:7894 on port 1883.
+1668933925: New client connected from 184.105.247.195:7894 as MqttClient (p2, c1, k60).
+1668933926: Client MqttClient closed its connection.
+1668934719: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668936520: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668938321: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668940122: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668941923: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668943724: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668945525: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668947326: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668949127: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668950928: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668952729: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668954530: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668956331: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668958132: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668959933: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668961734: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668963535: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668965336: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668967137: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668968938: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668970739: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668972540: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668974341: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668976142: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668977943: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668979744: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668981545: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668983346: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668985147: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668986948: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668988749: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668990550: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668992351: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668993093: New connection from 139.59.87.10:61953 on port 1883.
+1668993126: Client <unknown> closed its connection.
+1668994152: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668995953: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668997754: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1668998206: New connection from 176.12.98.222:59368 on port 1883.
+1668998206: Client <unknown> disconnected due to protocol error.
+1668999555: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669001356: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669003157: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669004958: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669006759: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669007909: New connection from 2001:470:1:c84::17:30666 on port 1883.
+1669007909: New client connected from 2001:470:1:c84::17:30666 as MqttClient (p2, c1, k60).
+1669007909: Client MqttClient closed its connection.
+1669008560: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669010361: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669012162: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669013963: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669015764: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669017565: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669019366: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669021167: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669022968: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669024769: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669025632: New connection from 79.124.62.106:64999 on port 1883.
+1669025632: Client <unknown> disconnected due to protocol error.
+1669026570: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669028371: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669030172: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669031973: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669033774: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669035575: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669037376: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669039177: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669040978: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669041464: New connection from 167.248.133.45:51896 on port 1883.
+1669041464: New client connected from 167.248.133.45:51896 as CENSYS (p2, c0, k10).
+1669041479: Client CENSYS closed its connection.
+1669042048: New connection from 89.248.165.202:49200 on port 1883.
+1669042049: Client <unknown> closed its connection.
+1669042779: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669044580: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669046381: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669046398: New connection from 65.49.20.66:23172 on port 1883.
+1669046398: New client connected from 65.49.20.66:23172 as MqttClient (p2, c1, k60).
+1669046398: Client MqttClient closed its connection.
+1669048182: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669049983: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669051784: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669053585: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669055386: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669057187: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669058988: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669060789: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669062590: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669064391: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669066192: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669067993: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669069735: New connection from 103.56.61.147:34652 on port 1883.
+1669069735: New client connected from 103.56.61.147:34652 as A𪛔 (p2, c1, k10, u'A𪛔').
+1669069736: New connection from 103.56.61.147:34692 on port 1883.
+1669069736: New client connected from 103.56.61.147:34692 as nmapMBIUOCCMCPFACXWN (p2, c0, k30).
+1669069745: Client A𪛔 closed its connection.
+1669069745: New connection from 103.56.61.147:36222 on port 1883.
+1669069745: Client <unknown> disconnected due to protocol error.
+1669069746: New connection from 103.56.61.147:36382 on port 1883.
+1669069746: Client <unknown> disconnected due to protocol error.
+1669069785: Client nmapMBIUOCCMCPFACXWN has exceeded timeout, disconnecting.
+1669069794: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669071595: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669073396: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669075197: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669076998: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669077070: New connection from 2001:470:1:c84::31:19528 on port 1883.
+1669077070: New client connected from 2001:470:1:c84::31:19528 as MqttClient (p2, c1, k60).
+1669077070: Client MqttClient closed its connection.
+1669078799: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669080600: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669082401: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669084187: New connection from 167.248.133.117:49140 on port 1883.
+1669084187: New client connected from 167.248.133.117:49140 as CENSYS (p2, c0, k10).
+1669084202: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669084202: Client CENSYS closed its connection.
+1669086003: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669087804: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669089605: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669091406: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669093207: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669095008: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669096809: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669098610: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669100411: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669102212: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669104013: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669105814: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669107615: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669109416: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669111217: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669113018: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669114819: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669116620: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669118421: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669120222: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669122023: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669123824: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669125625: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669127426: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669129227: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669130143: New connection from 74.82.47.4:5758 on port 1883.
+1669130143: New client connected from 74.82.47.4:5758 as MqttClient (p2, c1, k60).
+1669130143: Client MqttClient closed its connection.
+1669131028: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669132829: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669134630: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669136431: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669138232: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669140033: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669141834: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669143635: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669145436: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669147237: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669149038: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669150839: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669152640: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669154441: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669156242: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669158043: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669159844: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669161645: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669162015: New connection from 2001:470:1:c84::31:20686 on port 1883.
+1669162015: New client connected from 2001:470:1:c84::31:20686 as MqttClient (p2, c1, k60).
+1669162015: Client MqttClient closed its connection.
+1669163446: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669165247: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669167048: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669168849: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669170650: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669172451: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669174252: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669176053: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669177854: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669179655: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669180337: New connection from 64.62.197.77:55020 on port 1883.
+1669180337: New client connected from 64.62.197.77:55020 as MqttClient (p2, c1, k60).
+1669180337: Client MqttClient closed its connection.
+1669181456: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669182083: New connection from 162.142.125.211:51744 on port 1883.
+1669182083: New client connected from 162.142.125.211:51744 as CENSYS (p2, c0, k10).
+1669182098: Client CENSYS closed its connection.
+1669183257: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669185058: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669186859: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669188660: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669190461: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669192262: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669194063: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669195864: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669197665: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669199466: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669201267: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669203068: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669204869: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669206670: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669208471: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669210272: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669212073: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669213874: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669215675: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669217476: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669219277: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669221078: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669222879: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669224680: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669226481: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669227191: New connection from 167.94.146.59:51422 on port 1883.
+1669227191: New client connected from 167.94.146.59:51422 as CENSYS (p2, c0, k10).
+1669227206: Client CENSYS closed its connection.
+1669228282: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669230083: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669231884: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669233685: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669235486: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669237287: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669239088: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669240889: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669242690: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669244491: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669246292: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669248093: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669249894: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669251695: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669252848: New connection from 2001:470:1:c84::14:42758 on port 1883.
+1669252848: New client connected from 2001:470:1:c84::14:42758 as MqttClient (p2, c1, k60).
+1669252848: Client MqttClient closed its connection.
+1669253496: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669255297: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669257098: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669258899: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669260700: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669262501: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669264302: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669266103: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669267904: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669269705: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669271506: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669273307: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669275108: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669276474: New connection from 184.105.247.194:37992 on port 1883.
+1669276474: New client connected from 184.105.247.194:37992 as MqttClient (p2, c1, k60).
+1669276475: Client MqttClient closed its connection.
+1669276909: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669278710: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669280511: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669282312: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669284113: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669285914: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669287715: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669288722: New connection from 167.94.145.59:51096 on port 1883.
+1669288722: New client connected from 167.94.145.59:51096 as CENSYS (p2, c0, k10).
+1669288737: Client CENSYS closed its connection.
+1669289516: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669291317: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669293118: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669294919: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669295758: New connection from 146.190.88.131:54414 on port 1883.
+1669295760: Client <unknown> disconnected: Success.
+1669296720: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669298521: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669300322: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669302123: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669303924: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669305725: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669307526: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669309327: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669311128: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669312929: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669314730: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669316531: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669318332: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669320133: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669321934: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669323735: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669325536: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669327337: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669328199: New connection from 167.94.138.44:32798 on port 1883.
+1669328199: New client connected from 167.94.138.44:32798 as CENSYS (p2, c0, k10).
+1669328214: Client CENSYS closed its connection.
+1669329138: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669330939: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669332740: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669334541: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669334812: New connection from 2001:470:1:332::175:24280 on port 1883.
+1669334812: New client connected from 2001:470:1:332::175:24280 as MqttClient (p2, c1, k60).
+1669334812: Client MqttClient closed its connection.
+1669336342: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669338143: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669339944: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669341745: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669343546: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669345347: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669347148: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669348949: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669350750: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669351259: New connection from 184.105.247.196:12702 on port 1883.
+1669351259: New client connected from 184.105.247.196:12702 as MqttClient (p2, c1, k60).
+1669351259: Client MqttClient closed its connection.
+1669352551: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669353788: New connection from 103.56.61.147:58254 on port 1883.
+1669353788: New client connected from 103.56.61.147:58254 as A𪛔 (p2, c1, k10, u'A𪛔').
+1669353788: New connection from 103.56.61.147:58512 on port 1883.
+1669353788: New client connected from 103.56.61.147:58512 as nmapXYQENUYVKKCNHLCL (p2, c0, k30).
+1669353798: Client nmapXYQENUYVKKCNHLCL disconnected.
+1669353798: Client A𪛔 closed its connection.
+1669353803: New connection from 103.56.61.147:41032 on port 1883.
+1669353803: Client <unknown> disconnected due to protocol error.
+1669353813: New connection from 103.56.61.147:48428 on port 1883.
+1669353813: Client <unknown> disconnected due to protocol error.
+1669354352: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669356153: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669357954: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669359755: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669361556: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669363357: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669365158: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669366959: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669368760: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669370561: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669372362: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669374163: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669375964: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669377765: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669379566: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669381367: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669383168: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669384969: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669386668: New connection from 103.56.61.147:38314 on port 1883.
+1669386668: New client connected from 103.56.61.147:38314 as A𪛔 (p2, c1, k10, u'A𪛔').
+1669386669: New connection from 103.56.61.147:41696 on port 1883.
+1669386669: New client connected from 103.56.61.147:41696 as nmapLIAYCYTNJWAQIDCO (p2, c0, k30).
+1669386679: Client A𪛔 closed its connection.
+1669386679: Client nmapLIAYCYTNJWAQIDCO disconnected.
+1669386680: New connection from 103.56.61.147:45880 on port 1883.
+1669386680: Client <unknown> disconnected due to protocol error.
+1669386690: New connection from 103.56.61.147:52860 on port 1883.
+1669386690: Client <unknown> disconnected due to protocol error.
+1669386770: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669388571: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669390372: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669392173: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669393974: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669395775: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669397576: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669399377: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669401178: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669402979: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669404780: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669406581: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669408382: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669410183: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669411984: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669413785: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669415586: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669417387: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669419188: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669420989: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669422790: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669424591: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669426392: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669428193: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669429994: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669431795: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669433596: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669433663: New connection from 2001:470:1:c84::11:12156 on port 1883.
+1669433663: New client connected from 2001:470:1:c84::11:12156 as MqttClient (p2, c1, k60).
+1669433664: Client MqttClient closed its connection.
+1669435397: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669437198: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669438999: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669440800: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669442601: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669444402: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669446203: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669447685: New connection from 178.79.139.171:51940 on port 1883.
+1669447691: New client connected from 178.79.139.171:51940 as nmap (p2, c1, k30).
+1669447691: Client nmap closed its connection.
+1669447712: New connection from 178.79.139.171:59110 on port 1883.
+1669447712: New connection from 178.79.139.171:59148 on port 1883.
+1669447712: New connection from 178.79.139.171:59224 on port 1883.
+1669447712: Client <unknown> disconnected due to protocol error.
+1669447717: Client <unknown> disconnected due to protocol error.
+1669447717: New connection from 178.79.139.171:39476 on port 1883.
+1669447717: Client <unknown> disconnected due to protocol error.
+1669447722: Client <unknown> closed its connection.
+1669447722: New connection from 178.79.139.171:46482 on port 1883.
+1669447722: Client <unknown> disconnected due to protocol error.
+1669448004: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669449805: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669451606: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669453407: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669455140: New connection from 167.94.138.61:56896 on port 1883.
+1669455140: New client connected from 167.94.138.61:56896 as CENSYS (p2, c0, k10).
+1669455156: Client CENSYS closed its connection.
+1669455208: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669457009: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669458504: New connection from 216.218.206.68:62840 on port 1883.
+1669458504: New client connected from 216.218.206.68:62840 as MqttClient (p2, c1, k60).
+1669458504: Client MqttClient closed its connection.
+1669458810: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669460611: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669462412: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669464213: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669466014: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669467815: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669468300: New connection from 162.142.125.8:52426 on port 1883.
+1669468300: New client connected from 162.142.125.8:52426 as CENSYS (p2, c0, k10).
+1669468316: Client CENSYS closed its connection.
+1669469616: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669471417: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669473218: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669475019: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669476820: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669478621: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669480422: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669482223: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669484024: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669485825: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669487626: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669489427: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669491228: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669492415: New connection from 167.94.146.60:45728 on port 1883.
+1669492415: New client connected from 167.94.146.60:45728 as CENSYS (p2, c0, k10).
+1669492430: Client CENSYS closed its connection.
+1669493029: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669494830: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669496631: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669498432: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669500233: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669502034: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669503835: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669505636: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669507437: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669509238: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669511039: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669512840: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669514582: New connection from 2001:470:1:332::28:47206 on port 1883.
+1669514582: New client connected from 2001:470:1:332::28:47206 as MqttClient (p2, c1, k60).
+1669514582: Client MqttClient closed its connection.
+1669514641: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669516442: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669518243: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669518664: New connection from 178.32.197.88:40549 on port 1883.
+1669518664: New client connected from 178.32.197.88:40549 as ONYPHE (p2, c1, k30).
+1669518674: Client ONYPHE closed its connection.
+1669520044: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669521445: New connection from 184.105.247.252:65076 on port 1883.
+1669521445: New client connected from 184.105.247.252:65076 as MqttClient (p2, c1, k60).
+1669521445: Client MqttClient closed its connection.
+1669521845: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669522485: New connection from 209.97.176.180:53206 on port 1883.
+1669522485: New client connected from 209.97.176.180:53206 as mqtt_9e3d3637 (p2, c1, k30000).
+1669522516: Client mqtt_9e3d3637 disconnected.
+1669522627: New connection from 192.53.123.77:56244 on port 1883.
+1669522629: Client <unknown> closed its connection.
+1669522629: New connection from 192.53.123.77:56246 on port 1883.
+1669522630: Client <unknown> disconnected: Success.
+1669522630: New connection from 192.53.123.77:56250 on port 1883.
+1669522630: Client <unknown> disconnected due to protocol error.
+1669522630: New connection from 192.53.123.77:56252 on port 1883.
+1669522630: Client <unknown> disconnected due to protocol error.
+1669522631: New connection from 192.53.123.77:56254 on port 1883.
+1669522631: New client connected from 192.53.123.77:56254 as beio (p2, c1, k30).
+1669522632: Client beio closed its connection.
+1669523646: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669525447: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669527248: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669529049: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669530850: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669532651: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669534452: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669536253: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669538054: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669539855: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669541656: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669543457: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669545258: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669547059: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669548860: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669550661: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669552462: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669554263: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669556064: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669557865: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669559666: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669561467: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669563268: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669565069: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669566870: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669568671: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669570472: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669572273: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669574074: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669575875: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669577676: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669579477: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669581278: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669583079: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669584880: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669586681: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669588482: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669590283: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669592084: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669593885: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669595686: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669597487: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669599288: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669601089: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669602890: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669604691: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669606492: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669608293: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669610094: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669611895: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669613696: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669615497: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669617298: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669619099: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669620900: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669621514: New connection from 2001:470:1:332::8:4936 on port 1883.
+1669621514: New client connected from 2001:470:1:332::8:4936 as MqttClient (p2, c1, k60).
+1669621514: Client MqttClient closed its connection.
+1669622701: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669624502: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669626303: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669628104: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669629905: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669631706: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669633507: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669635308: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669637109: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669638078: New connection from 184.105.139.68:18920 on port 1883.
+1669638078: New client connected from 184.105.139.68:18920 as MqttClient (p2, c1, k60).
+1669638078: Client MqttClient closed its connection.
+1669638910: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669639050: New connection from 146.190.60.244:61953 on port 1883.
+1669639083: Client <unknown> closed its connection.
+1669640711: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669642512: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669644313: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669646114: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669647915: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669649716: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669651517: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669653318: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669655119: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669656920: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669658214: New connection from 167.248.133.117:39808 on port 1883.
+1669658214: New client connected from 167.248.133.117:39808 as CENSYS (p2, c0, k10).
+1669658229: Client CENSYS closed its connection.
+1669658721: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669660522: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669662323: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669664124: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669665925: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669667726: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669668296: New connection from 167.248.133.60:58624 on port 1883.
+1669668296: New client connected from 167.248.133.60:58624 as CENSYS (p2, c0, k10).
+1669668311: Client CENSYS closed its connection.
+1669669527: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669671328: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669673129: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669674930: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669676731: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669678532: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669680333: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669682134: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669683935: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669685736: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669687537: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669689338: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669691139: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669692940: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669694741: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669696542: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669698343: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669700144: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669701945: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669703746: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669704628: New connection from 184.105.139.70:50956 on port 1883.
+1669704628: New client connected from 184.105.139.70:50956 as MqttClient (p2, c1, k60).
+1669704628: Client MqttClient closed its connection.
+1669705547: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669707348: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669709149: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669710299: New connection from 2001:470:1:332::37:16428 on port 1883.
+1669710299: New client connected from 2001:470:1:332::37:16428 as MqttClient (p2, c1, k60).
+1669710299: Client MqttClient closed its connection.
+1669710950: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669712751: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669713271: New connection from 167.94.145.60:39338 on port 1883.
+1669713271: New client connected from 167.94.145.60:39338 as CENSYS (p2, c0, k10).
+1669713286: Client CENSYS closed its connection.
+1669714552: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669716353: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669718154: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669719955: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669721756: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669723557: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669725358: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669727159: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669728960: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669730761: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669732562: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669734363: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669736164: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669737965: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669739766: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669741567: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669743368: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669745169: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669746970: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669748771: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669750572: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669752373: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669754174: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669755975: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669757776: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669759577: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669760337: New connection from 167.94.138.60:43420 on port 1883.
+1669760337: New client connected from 167.94.138.60:43420 as CENSYS (p2, c0, k10).
+1669760352: Client CENSYS closed its connection.
+1669760481: New connection from 2.57.122.157:57880 on port 1883.
+1669760481: New client connected from 2.57.122.157:57880 as 29342E1E-0AB9-58FA-8254-1DFC4464247C (p2, c1, k30).
+1669760482: Client 29342E1E-0AB9-58FA-8254-1DFC4464247C closed its connection.
+1669761378: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669763179: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669764980: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669766781: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669768582: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669770383: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669770924: New connection from 74.82.47.4:34472 on port 1883.
+1669770924: New client connected from 74.82.47.4:34472 as MqttClient (p2, c1, k60).
+1669770924: Client MqttClient closed its connection.
+1669772184: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669773985: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669775786: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669777587: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669779388: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669781189: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669782990: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669784791: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669786592: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669787121: New connection from 2001:470:1:c84::22:62566 on port 1883.
+1669787121: New client connected from 2001:470:1:c84::22:62566 as MqttClient (p2, c1, k60).
+1669787121: Client MqttClient closed its connection.
+1669788393: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669790194: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669791995: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669793796: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669795597: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669797398: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669799199: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669801000: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669802801: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669804602: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669806403: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669808204: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669810005: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669811806: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669813607: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669815408: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669817209: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669819010: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669820811: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669822612: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669824413: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669826184: New connection from 103.56.61.147:37250 on port 1883.
+1669826184: New client connected from 103.56.61.147:37250 as A𪛔 (p2, c1, k10, u'A𪛔').
+1669826184: New connection from 103.56.61.147:37354 on port 1883.
+1669826184: New client connected from 103.56.61.147:37354 as nmapEUGNOYNZZLFFUZAY (p2, c0, k30).
+1669826193: Client A𪛔 closed its connection.
+1669826203: New connection from 103.56.61.147:45256 on port 1883.
+1669826203: Client <unknown> disconnected due to protocol error.
+1669826213: New connection from 103.56.61.147:58480 on port 1883.
+1669826213: Client <unknown> disconnected due to protocol error.
+1669826214: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669826233: Client nmapEUGNOYNZZLFFUZAY has exceeded timeout, disconnecting.
+1669828015: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669829816: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669831617: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669833418: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669835219: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669837020: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669838821: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669840622: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669842423: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669844224: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669846025: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669847826: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669849627: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669851174: New connection from 161.35.25.4:48376 on port 1883.
+1669851176: Client <unknown> disconnected: Success.
+1669851428: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669853229: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669855030: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669856831: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669857933: New connection from 2001:470:1:c84::22:8260 on port 1883.
+1669857933: New client connected from 2001:470:1:c84::22:8260 as MqttClient (p2, c1, k60).
+1669857934: Client MqttClient closed its connection.
+1669858632: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669860433: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669862234: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669864035: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669865836: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669867637: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669869438: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669871239: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669873040: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669874841: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669876642: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669878443: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669880244: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669882045: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669883846: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669885647: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669887448: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669889249: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669891050: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669892851: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669894652: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669896453: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669898254: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669900055: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669901064: New connection from 64.62.197.17:21820 on port 1883.
+1669901064: New client connected from 64.62.197.17:21820 as MqttClient (p2, c1, k60).
+1669901064: Client MqttClient closed its connection.
+1669901856: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669903657: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669905458: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669907259: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669909060: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669910861: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669912465: New connection from 167.248.133.61:60892 on port 1883.
+1669912465: New client connected from 167.248.133.61:60892 as CENSYS (p2, c0, k10).
+1669912481: Client CENSYS closed its connection.
+1669912662: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669914463: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669916264: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669918065: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669919866: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669921667: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669923468: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669925269: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669927070: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669928871: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669930672: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669932473: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669934274: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669935915: New connection from 103.56.61.147:49860 on port 1883.
+1669935915: New client connected from 103.56.61.147:49860 as A𪛔 (p2, c1, k10, u'A𪛔').
+1669935915: New connection from 103.56.61.147:50052 on port 1883.
+1669935915: New client connected from 103.56.61.147:50052 as nmapMBIUOCCMCPFACXWN (p2, c0, k30).
+1669935924: Client A𪛔 closed its connection.
+1669935924: New connection from 103.56.61.147:53718 on port 1883.
+1669935924: Client <unknown> disconnected due to protocol error.
+1669935924: New connection from 103.56.61.147:53828 on port 1883.
+1669935924: Client <unknown> disconnected due to protocol error.
+1669935961: Client nmapMBIUOCCMCPFACXWN has exceeded timeout, disconnecting.
+1669936075: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669937876: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669939677: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669941478: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669943279: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669943936: New connection from 64.62.197.92:43674 on port 1883.
+1669943936: New client connected from 64.62.197.92:43674 as MqttClient (p2, c1, k60).
+1669943937: Client MqttClient closed its connection.
+1669945080: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669946881: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669948682: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669950483: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669952284: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669954085: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669955886: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669957687: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669959488: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669961289: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669962407: New connection from 2001:470:1:c84::30:24802 on port 1883.
+1669962407: New client connected from 2001:470:1:c84::30:24802 as MqttClient (p2, c1, k60).
+1669962407: Client MqttClient closed its connection.
+1669963090: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669964891: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669966692: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669968493: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669970294: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669972095: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669973896: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669975697: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669977498: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669979299: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669981100: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669982901: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669984702: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669986503: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669988304: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669990105: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669991906: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669993707: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669995508: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669997309: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669997358: New connection from 103.56.61.147:54090 on port 1883.
+1669997358: New client connected from 103.56.61.147:54090 as A𪛔 (p2, c1, k10, u'A𪛔').
+1669997358: New connection from 103.56.61.147:54180 on port 1883.
+1669997358: New client connected from 103.56.61.147:54180 as nmapFJYUHMTHYZMTYMRV (p2, c0, k30).
+1669997367: Client nmapFJYUHMTHYZMTYMRV disconnected.
+1669997367: Client A𪛔 closed its connection.
+1669997370: New connection from 103.56.61.147:55002 on port 1883.
+1669997370: Client <unknown> disconnected due to protocol error.
+1669997381: New connection from 103.56.61.147:56546 on port 1883.
+1669997381: Client <unknown> disconnected due to protocol error.
+1669999110: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1669999438: New connection from 87.251.64.238:64667 on port 1883.
+1669999438: Client <unknown> disconnected due to protocol error.
+1670000246: New connection from 162.142.125.8:50396 on port 1883.
+1670000246: New client connected from 162.142.125.8:50396 as CENSYS (p2, c0, k10).
+1670000261: Client CENSYS closed its connection.
+1670000911: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670002712: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670004455: New connection from 103.156.90.29:56471 on port 1883.
+1670004455: Client <unknown> disconnected due to protocol error.
+1670004513: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670006314: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670008115: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670009916: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670011717: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670013518: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670015319: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670017120: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670018921: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670020722: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670022523: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670024324: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670026125: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670027024: New connection from 184.105.247.194:15146 on port 1883.
+1670027024: New client connected from 184.105.247.194:15146 as MqttClient (p2, c1, k60).
+1670027024: Client MqttClient closed its connection.
+1670027926: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670029727: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670031528: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670033329: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670035130: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670036119: New connection from 2001:470:1:332::a:52838 on port 1883.
+1670036119: New client connected from 2001:470:1:332::a:52838 as MqttClient (p2, c1, k60).
+1670036119: Client MqttClient closed its connection.
+1670036931: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670038732: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670040533: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670042334: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670044135: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670045936: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670046693: New connection from 87.251.64.238:63609 on port 1883.
+1670046693: Client <unknown> disconnected due to protocol error.
+1670047737: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670049538: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670051339: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670053140: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670054941: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670056742: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670058543: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670060344: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670062145: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670063946: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670065747: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670067548: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670069349: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670071150: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670072951: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670074752: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670076553: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670077132: New connection from 103.56.61.147:58576 on port 1883.
+1670077132: New client connected from 103.56.61.147:58576 as A𪛔 (p2, c1, k10, u'A𪛔').
+1670077132: New connection from 103.56.61.147:58668 on port 1883.
+1670077132: New client connected from 103.56.61.147:58668 as nmapEUGNOYNZZLFFUZAY (p2, c0, k30).
+1670077142: Client A𪛔 closed its connection.
+1670077142: New connection from 103.56.61.147:37886 on port 1883.
+1670077142: Client <unknown> disconnected due to protocol error.
+1670077143: New connection from 103.56.61.147:41354 on port 1883.
+1670077143: Client <unknown> disconnected due to protocol error.
+1670077183: Client nmapEUGNOYNZZLFFUZAY has exceeded timeout, disconnecting.
+1670078354: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670080155: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670081956: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670083757: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670085558: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670087359: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670089160: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670090961: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670092762: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670094563: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670096364: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670098165: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670099966: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670101767: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670103568: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670105369: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670107170: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670108971: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670110772: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670112573: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670114374: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670116175: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670116653: New connection from 64.62.197.107:65408 on port 1883.
+1670116653: New client connected from 64.62.197.107:65408 as MqttClient (p2, c1, k60).
+1670116653: Client MqttClient closed its connection.
+1670117976: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670119777: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670121578: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670123379: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670125180: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670126981: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670128782: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670130583: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670132384: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670133506: New connection from 167.94.138.44:54052 on port 1883.
+1670133506: New client connected from 167.94.138.44:54052 as CENSYS (p2, c0, k10).
+1670133521: Client CENSYS closed its connection.
+1670134185: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670135986: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670137787: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670139588: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670141220: New connection from 2001:470:1:332::148:47068 on port 1883.
+1670141220: New client connected from 2001:470:1:332::148:47068 as MqttClient (p2, c1, k60).
+1670141221: Client MqttClient closed its connection.
+1670141389: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670143190: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670144991: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670146792: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670148593: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670150394: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670152195: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670153996: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670155797: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670157598: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670159399: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670161200: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670163001: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670164802: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670166603: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670168404: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670170205: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670172006: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670173807: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670175608: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670177409: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670179210: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670181011: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670182812: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670184613: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670186414: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670188215: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670190016: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670191817: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670193618: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670195419: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670197220: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670199021: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670199387: New connection from 103.56.61.147:47912 on port 1883.
+1670199387: New client connected from 103.56.61.147:47912 as A𪛔 (p2, c1, k10, u'A𪛔').
+1670199387: New connection from 103.56.61.147:48016 on port 1883.
+1670199387: New client connected from 103.56.61.147:48016 as nmapXYQENUYVKKCNHLCL (p2, c0, k30).
+1670199395: Client nmapXYQENUYVKKCNHLCL disconnected.
+1670199395: Client A𪛔 closed its connection.
+1670199401: New connection from 103.56.61.147:54020 on port 1883.
+1670199401: Client <unknown> disconnected due to protocol error.
+1670199402: New connection from 103.56.61.147:54124 on port 1883.
+1670199402: Client <unknown> disconnected due to protocol error.
+1670200822: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670202623: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670204424: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670206225: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670208026: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670209827: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670211628: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670213429: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670214552: New connection from 176.111.174.128:63832 on port 1883.
+1670214552: Client <unknown> disconnected due to protocol error.
+1670215230: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670215887: New connection from 167.248.133.119:58378 on port 1883.
+1670215887: New client connected from 167.248.133.119:58378 as CENSYS (p2, c0, k10).
+1670215902: Client CENSYS closed its connection.
+1670217031: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670218832: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670220633: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670221584: New connection from 2001:470:1:c84::11:28330 on port 1883.
+1670221584: New client connected from 2001:470:1:c84::11:28330 as MqttClient (p2, c1, k60).
+1670221584: Client MqttClient closed its connection.
+1670222434: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670224235: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670226036: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670227837: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670229638: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670231439: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670233240: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670235041: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670236842: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670238643: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670240444: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670242245: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670244046: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670245847: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670247648: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670249449: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670251250: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670252197: New connection from 162.142.125.211:32834 on port 1883.
+1670252197: New client connected from 162.142.125.211:32834 as CENSYS (p2, c0, k10).
+1670252213: Client CENSYS closed its connection.
+1670253051: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670254852: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670256653: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670258454: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670260255: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670260474: New connection from 64.62.197.152:50750 on port 1883.
+1670260474: New client connected from 64.62.197.152:50750 as MqttClient (p2, c1, k60).
+1670260474: Client MqttClient closed its connection.
+1670262056: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670263857: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670265658: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670267459: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670269260: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670271061: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670272862: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670274663: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670276464: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670278265: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670278525: New connection from 178.128.243.34:61953 on port 1883.
+1670278557: Client <unknown> closed its connection.
+1670280066: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670281867: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670283668: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670285469: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670287270: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670289071: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670290872: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670292673: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670294474: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670296275: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670298076: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670299877: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670301678: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670303479: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670305280: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670307081: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670308882: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670310683: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670310931: New connection from 2001:470:1:c84::15:44578 on port 1883.
+1670310931: New client connected from 2001:470:1:c84::15:44578 as MqttClient (p2, c1, k60).
+1670310931: Client MqttClient closed its connection.
+1670312484: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670314285: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670316086: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670317887: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670319688: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670321489: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670323290: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670323710: New connection from 64.62.197.47:48696 on port 1883.
+1670323710: New client connected from 64.62.197.47:48696 as MqttClient (p2, c1, k60).
+1670323710: Client MqttClient closed its connection.
+1670325091: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670326892: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670328693: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670330494: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670332295: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670334096: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670335897: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670337698: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670339499: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670341300: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670343101: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670344902: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670346703: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670348504: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670350305: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670352106: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670353907: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670355708: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670357509: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670359310: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670361111: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670362912: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670364713: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670366514: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670368315: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670369850: New connection from 178.79.139.171:46944 on port 1883.
+1670369856: New client connected from 178.79.139.171:46944 as nmap (p2, c1, k30).
+1670369856: Client nmap closed its connection.
+1670369877: New connection from 178.79.139.171:41600 on port 1883.
+1670369877: New connection from 178.79.139.171:41610 on port 1883.
+1670369877: New connection from 178.79.139.171:41614 on port 1883.
+1670369877: Client <unknown> disconnected due to protocol error.
+1670369882: Client <unknown> disconnected due to protocol error.
+1670369882: New connection from 178.79.139.171:46684 on port 1883.
+1670369882: Client <unknown> disconnected due to protocol error.
+1670369888: Client <unknown> closed its connection.
+1670370116: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670371917: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670373718: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670375519: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670377320: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670379121: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670380922: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670382723: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670384524: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670386325: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670388126: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670389927: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670391728: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670393529: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670395330: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670397131: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670398932: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670398994: New connection from 2001:470:1:c84::30:3810 on port 1883.
+1670398994: New client connected from 2001:470:1:c84::30:3810 as MqttClient (p2, c1, k60).
+1670398995: Client MqttClient closed its connection.
+1670400513: New connection from 103.56.61.147:49772 on port 1883.
+1670400513: New client connected from 103.56.61.147:49772 as A𪛔 (p2, c1, k10, u'A𪛔').
+1670400513: New connection from 103.56.61.147:49940 on port 1883.
+1670400513: New client connected from 103.56.61.147:49940 as nmapXYQENUYVKKCNHLCL (p2, c0, k30).
+1670400519: Client nmapXYQENUYVKKCNHLCL disconnected.
+1670400519: Client A𪛔 closed its connection.
+1670400530: New connection from 103.56.61.147:51574 on port 1883.
+1670400530: Client <unknown> disconnected due to protocol error.
+1670400531: New connection from 103.56.61.147:51616 on port 1883.
+1670400531: Client <unknown> disconnected due to protocol error.
+1670400733: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670402534: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670404335: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670406136: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670407937: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670409738: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670411539: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670413340: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670415141: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670416942: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670418743: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670419499: New connection from 64.62.197.107:26846 on port 1883.
+1670419499: New client connected from 64.62.197.107:26846 as MqttClient (p2, c1, k60).
+1670419499: Client MqttClient closed its connection.
+1670420544: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670422345: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670424146: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670425947: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670427748: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670429549: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670431350: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670433151: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670434952: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670436753: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670438554: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670440355: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670442156: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670443957: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670445758: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670447559: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670447863: New connection from 167.94.146.58:51744 on port 1883.
+1670447863: New client connected from 167.94.146.58:51744 as CENSYS (p2, c0, k10).
+1670447878: Client CENSYS closed its connection.
+1670449360: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670451161: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670452962: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670454763: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670456564: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670457442: New connection from 167.94.138.47:43850 on port 1883.
+1670457442: New client connected from 167.94.138.47:43850 as CENSYS (p2, c0, k10).
+1670457457: Client CENSYS closed its connection.
+1670458365: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670460166: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670461967: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670463768: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670465569: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670467370: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670467505: New connection from 162.142.125.213:48280 on port 1883.
+1670467505: New client connected from 162.142.125.213:48280 as CENSYS (p2, c0, k10).
+1670467520: Client CENSYS closed its connection.
+1670469171: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670470972: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670472773: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670474574: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670476375: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670478176: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670479977: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670481778: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670483579: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670484016: New connection from 35.86.209.76:45310 on port 1883.
+1670484016: New client connected from 35.86.209.76:45310 as sonar (p2, c1, k5).
+1670484025: Client sonar has exceeded timeout, disconnecting.
+1670485380: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670486525: New connection from 2001:470:1:c84::31:12318 on port 1883.
+1670486525: New client connected from 2001:470:1:c84::31:12318 as MqttClient (p2, c1, k60).
+1670486526: Client MqttClient closed its connection.
+1670486978: New connection from 164.92.129.135:57574 on port 1883.
+1670486980: Client <unknown> disconnected: Success.
+1670487181: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670488982: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670490065: New connection from 91.191.209.142:63972 on port 1883.
+1670490065: Client <unknown> disconnected due to protocol error.
+1670490065: New connection from 64.62.197.197:23160 on port 1883.
+1670490065: New client connected from 64.62.197.197:23160 as MqttClient (p2, c1, k60).
+1670490065: Client MqttClient closed its connection.
+1670490783: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670492584: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670494385: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670496186: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670497987: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670499788: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670501589: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670503272: New connection from 162.142.125.9:43216 on port 1883.
+1670503272: New client connected from 162.142.125.9:43216 as CENSYS (p2, c0, k10).
+1670503288: Client CENSYS closed its connection.
+1670503390: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670505191: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670506992: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670508793: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670510594: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670512395: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670514196: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670515997: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670517798: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670519599: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670521400: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670523201: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670525002: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670526803: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670528604: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670529416: New connection from 167.248.133.62:45040 on port 1883.
+1670529416: New client connected from 167.248.133.62:45040 as CENSYS (p2, c0, k10).
+1670529432: Client CENSYS closed its connection.
+1670530405: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670532206: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670534007: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670535808: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670537609: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670539410: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670541211: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670543012: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670544813: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670546614: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670547704: New connection from 2001:470:1:332::3:5828 on port 1883.
+1670547704: New client connected from 2001:470:1:332::3:5828 as MqttClient (p2, c1, k60).
+1670547705: Client MqttClient closed its connection.
+1670548415: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670550216: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670552017: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670553818: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670555619: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670557420: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670558456: New connection from 87.236.176.70:35963 on port 1883.
+1670558459: New client connected from 87.236.176.70:35963 as nmap (p2, c1, k30).
+1670558461: Client nmap closed its connection.
+1670558473: New connection from 87.236.176.195:54551 on port 1883.
+1670558476: Client <unknown> disconnected due to protocol error.
+1670558488: New connection from 87.236.176.58:42089 on port 1883.
+1670558491: Client <unknown> disconnected due to protocol error.
+1670558503: New connection from 87.236.176.39:44233 on port 1883.
+1670558506: Client <unknown> disconnected due to protocol error.
+1670558519: New connection from 87.236.176.185:43863 on port 1883.
+1670558522: Client <unknown> disconnected due to protocol error.
+1670558534: New connection from 87.236.176.41:37121 on port 1883.
+1670558537: Client <unknown> disconnected due to protocol error.
+1670558537: New connection from 87.236.176.41:54855 on port 1883.
+1670558537: Client <unknown> disconnected due to protocol error.
+1670558549: New connection from 87.236.176.135:41881 on port 1883.
+1670558552: Client <unknown> disconnected due to protocol error.
+1670559221: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670561022: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670562823: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670564624: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670566425: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670568226: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670570027: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670571828: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670573629: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670575051: New connection from 103.56.61.147:38982 on port 1883.
+1670575051: New client connected from 103.56.61.147:38982 as A𪛔 (p2, c1, k10, u'A𪛔').
+1670575051: New connection from 103.56.61.147:40690 on port 1883.
+1670575052: New client connected from 103.56.61.147:40690 as nmapMBIUOCCMCPFACXWN (p2, c0, k30).
+1670575061: Client A𪛔 closed its connection.
+1670575071: New connection from 103.56.61.147:46038 on port 1883.
+1670575071: Client <unknown> disconnected due to protocol error.
+1670575081: New connection from 103.56.61.147:44688 on port 1883.
+1670575081: Client <unknown> disconnected due to protocol error.
+1670575099: Client nmapMBIUOCCMCPFACXWN has exceeded timeout, disconnecting.
+1670575430: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670577231: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670578258: New connection from 71.6.146.185:42191 on port 1883.
+1670578259: New client connected from 71.6.146.185:42191 as paho/183A4A7AFD141D38D4 (p1, c1, k60).
+1670578293: Client paho/183A4A7AFD141D38D4 closed its connection.
+1670579032: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670580833: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670582634: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670583551: New connection from 5.39.220.78:58710 on port 1883.
+1670583557: New client connected from 5.39.220.78:58710 as nmap (p2, c1, k30).
+1670583557: Client nmap closed its connection.
+1670584435: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670586236: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670586985: mosquitto version 2.0.11 terminating
+1670586985: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1670587005: mosquitto version 2.0.11 starting
+1670587005: Config loaded from /etc/mosquitto/mosquitto.conf.
+1670587005: Opening ipv4 listen socket on port 1883.
+1670587005: Opening ipv6 listen socket on port 1883.
+1670587005: mosquitto version 2.0.11 running
