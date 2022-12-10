@@ -2,15 +2,15 @@ def remove_port(host_with_port):
     if host_with_port.count('.') == 3 and host_with_port.count(':') == 1:
         return host_with_port.split(':')[0]
     elif host_with_port.count(':') > 1:
-        return host_with_port.rsplit(':',1)[0]
+        return host_with_port.rsplit(':', 1)[0]
     else:
         return host_with_port
 
 
 def test_remove_port():
-    #IPv6 test
+    # IPv6 test
     assert remove_port("2001:470:1:c84::11:4014") == "2001:470:1:c84::11"
-    #IPv4 test
+    # IPv4 test
     assert remove_port("103.56.61.147:46614") == "103.56.61.147"
 
 
@@ -36,4 +36,3 @@ def get_client_ip(text):
 def test_get_client_ip():
     assert get_client_ip("1668755969: New connection from 2001:470:1:c84::11:4014 on port 1883.") == "2001:470:1:c84::11:4014"
     assert get_client_ip("1668743768: New connection from 103.56.61.147:46614 on port 1883.") == "103.56.61.147:46614"
-
